@@ -1,5 +1,4 @@
 // import VueFontawesome
-import "font-awesome/css/font-awesome.min.css";
 import "./index.css";
 import { createApp } from "vue";
 import { createPinia } from "pinia";
