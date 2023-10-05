@@ -1,14 +1,14 @@
 # TODO-LIST Project in VUE
 
 # DEMO 
-Checkout the [Demo RealEstate](https://realestate-test-aktamov.netlify.app/users).
+Check the [Demo Project](https://todolist-vue-aktamov.netlify.app/).
 
 # Contact
 [Telegram Account](https://t.me/Farrux_Aktamov).
 
 About:
 
-## The RealEstate Project provides well-design and CRUD operations using list of users
+## The ToDo Project provides well-design and CRUD operations
 
 - Vue.JS
 - Font Awesome icons

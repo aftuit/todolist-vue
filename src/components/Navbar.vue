@@ -10,7 +10,7 @@
 export default {
     methods: {
         open() {
-            window.open('/')
+            window.open(window.location.href, '_blank', 'noopener=true')
         }
     }
 }
