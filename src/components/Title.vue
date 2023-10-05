@@ -4,6 +4,7 @@
         <input 
             type="text" 
             placeholder="Enter title" 
+            required
             @input="inputHandler"
             :value="title" 
             class="mt-4 w-full border border-slate-400 outline-none rounded-lg py-2 px-3">
